@@ -1,0 +1,6 @@
+{
+  "name": "Krog Pelikan Stockholm",
+  "description": "A premium modern recreation of Krog Pelikan, Stockholm's iconic historic restaurant in Södermalm. Showcases traditional Swedish Husmanskost with dynamic table bookings, elegant digital gift cards, and responsive Art Nouveau-inspired design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
